@@ -1,3 +1,7 @@
 # WilfRepo
 Wilf's test GitHub repository. 
-This is a repository that I'm using to learn the features of DevOps
+This is a repository that I'm using to learn the features of **DevOps**
+
+1. Created a BlueMix account using my IBM ID
+2. Created a DevOps project called WilfProj
+2. Created a GitHub repository called WilfRep (this repository)
