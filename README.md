@@ -11,3 +11,8 @@ This is a change that I maded in the master branch
 another change made in master
 
 change change change
+<<<<<<< HEAD
+=======
+
+another change
+>>>>>>> refs/remotes/origin/test2
